@@ -9,9 +9,10 @@ html{
     height: 100%;
 }
 
-body{
-    background-image: linear-gradient(to bottom left , rgb(6, 31, 173) , rgb(139, 30, 228));
+body{  background:linear-gradient(to bottom left , rgb(45, 1, 95), rgb(0, 0, 0) );
+    
 
+   
 }
 
 .menu{

@@ -10,7 +10,7 @@
     }
     
     body{
-        background-image: linear-gradient(to bottom left , rgb(6, 31, 173) , rgb(139, 30, 228));
+        background:linear-gradient(to bottom left , rgb(45, 1, 95), rgb(0, 0, 0) );
     
     }
     
@@ -68,3 +68,8 @@
         height: 200px;
         width: 10pxpx;
     }
+
+    #sla{
+        
+        
+        color: aliceblue;}
